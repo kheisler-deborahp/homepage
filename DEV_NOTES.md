@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Consolidated duplicate helper functions
 - Noted known limitation in docs
+
+## 2026-04-29
+- Added CONTRIBUTING.md stub
+- Refactored module structure for clarity
